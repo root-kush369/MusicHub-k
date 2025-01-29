@@ -1,4 +1,6 @@
-[![GitHub Logo]([https://graph.org//file/4b047bb92c4dbf0db14d4.png)](https://github.com/MoonWalker440/Music-Megathread](https://www.imdb.com/title/tt28805007/mediaviewer/rm2391826177/?ref_=tt_ov_i))
+
+
+<img src="https://graph.org//file/4b047bb92c4dbf0db14d4.png)](https://github.com/MoonWalker440/Music-Megathread](https://www.imdb.com/title/tt28805007/mediaviewer/rm2391826177/?ref_=tt_ov_i">
 
 
  <h1 align="center">Music Megathread</h1>
