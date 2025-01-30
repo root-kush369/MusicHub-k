@@ -1,6 +1,6 @@
 
 
-<img height="100vh" width="100vw" src="https://mir-s3-cdn-cf.behance.net/projects/404/4f9c4f202117031.6680655cee4ea.jpg">
+<img height="100%" width="100%" src="https://mir-s3-cdn-cf.behance.net/projects/404/4f9c4f202117031.6680655cee4ea.jpg">
 
 
  <h1 align="center">Music Megathread</h1>
